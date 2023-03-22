@@ -7,8 +7,8 @@ pool:
 
 variables:
   rg_name: openaml
-  ws_name: nlp-workspace 
-  ado_service_connection_aml_ws: Azure-ARM-Prod
+  ws_name: newtestwksp 
+  ado_service_connection_aml_ws: digital accelerator
 
 steps:
 - task: UsePythonVersion@0
