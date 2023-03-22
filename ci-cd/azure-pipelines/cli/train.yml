@@ -6,7 +6,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  rg_name: openaml
+  rg_name: rg_name: rg-nrcan-cmss-digital-accelerator-team-sandbox
   ws_name: newtestwksp 
   ado_service_connection_aml_ws: "digital accelerator"
 
